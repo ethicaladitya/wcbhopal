@@ -359,5 +359,5 @@ and (min-resolution: 192dpi) {
 }
 
 //Schedule Page Font 
-body.page-id-7 h2, body.page-id-7 h3{ font-family: 'Philosopher', Arial !important; font-weight: 700 !important; }
-body.page-id-7 .wp-container-14{font-family: 'Mulish', Arial !important;} 
+body h1, body h2, body h3, body h4, body h5{ font-family: "Philosopher", Arial !important;}
+*{font-family: "Mulish", Arial !important;} 
