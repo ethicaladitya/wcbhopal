@@ -358,7 +358,7 @@ and (min-resolution: 192dpi) {
 	background-size: auto;
 }
 
-//Schedule Page Font 
+/* Schedule Page Font */ 
 h1, h2, h3, h4, h5 {
 	font-family: "Philosopher", Arial !important;
 }
