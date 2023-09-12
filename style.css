@@ -1,3 +1,9 @@
+/* Fonts */ 
+h1, h2, h3, h4, h5 {
+	font-family: "Philosopher", Arial !important;
+}
+*{font-family: "Mulish", Arial !important;} 
+
 .round-borders {
 	border-radius: 50px;
 }
@@ -358,8 +364,19 @@ and (min-resolution: 192dpi) {
 	background-size: auto;
 }
 
-/* Schedule Page Font */ 
-h1, h2, h3, h4, h5 {
-	font-family: "Philosopher", Arial !important;
+/* schedule page table */
+#wordcamp-schedule__day-2023-10-08-tracks-all {
+	background-color: #fde9b1 !important;
+	border-left: 8px solid #fbd363;
 }
-*{font-family: "Mulish", Arial !important;} 
+
+.wordcamp-schedule__day .wordcamp-schedule__column-header {
+	background-color: #fbd363 !important;
+	color: #0a3773;
+	font-size: 1.2rem;
+	line-height: 3;
+}
+
+.wordcamp-schedule__day .wordcamp-schedule__session:hover {
+	background-color: #fcde8a;
+}
