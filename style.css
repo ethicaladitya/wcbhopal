@@ -282,12 +282,12 @@ and (min-resolution: 192dpi) {
 
 /* sponsor border */
 .sponsor-section {
-	border-image: url('https://bhopal.wordcamp.org/2023/files/2023/09/website-design-WPBhopal1.png') 70 / 60px 0 0 0 round;
+	border-image: url('https://adityashah.dev/border2.svg') 70 / 60px 0 0 0 round;
 }
 
 /*follow top*/
 .follow-us-head {
-	border-image: url('https://bhopal.wordcamp.org/2023/files/2023/09/website-design-WPBhopal1.png') 70 / 60px 0 0 0 round;
+	border-image: url('https://adityashah.dev/border2.svg') 70 / 60px 0 0 0 round;
 }
 
 /*below follow section */
