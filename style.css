@@ -371,7 +371,7 @@ and (min-resolution: 192dpi) {
 
 .wordcamp-schedule__day .wordcamp-schedule__column-header {
 	background-color: #3c91e6 !important;
-	color: #0a3773;
+	color: white;
 	font-size: 1.2rem;
 	line-height: 3;
 }
