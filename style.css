@@ -138,6 +138,17 @@ body.page-id-2629 #tix-coupon-link {
 .tix-tickets-list .tix-column-description {
 	font-weight: bold !important;
 	width: 60%;
+	border-bottom: solid;
+}
+
+.tix-ticket-3588 > th:nth-child(1) {
+	border-bottom: solid;
+}
+
+.tix-ticket-excerpt {
+	color: black;
+	font-weight: initial;
+	font-size: 16px;
 }
 
 body.page-id-2629 .tix-error {
