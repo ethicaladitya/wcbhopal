@@ -137,6 +137,7 @@ body.page-id-2629 #tix-coupon-link {
 
 .tix-tickets-list .tix-column-description {
 	font-weight: bold !important;
+	width: 60%;
 }
 
 body.page-id-2629 .tix-error {
