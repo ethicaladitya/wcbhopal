@@ -405,3 +405,9 @@ and (min-resolution: 192dpi) {
 .page-slug-blog .wp-block-heading.alignwide {
 	margin-left: var(--wp--preset--spacing--60);
 }
+
+.wp-block-columns.alignfull.blogs-section.has-background.is-layout-flex.wp-container-36.wp-block-columns-is-layout-flex {
+	background-image: url('https://bhopal.wordcamp.org/2023/files/2023/09/website-design-WPBhopal31.png');
+	background-origin: padding-box;
+	background-size: auto;
+}
