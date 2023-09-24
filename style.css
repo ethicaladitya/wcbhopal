@@ -204,10 +204,6 @@ body.page-id-14 #tix-attendees .tix-columns-3 li {
 }
 
 @media only screen and (max-width: 768px) {
-	body.page-id-14	#tix-attendees .tix-columns-4 li {
-		width: 100%;
-margin-right: 0;
-	}
 	
 	.wp-block-navigation__responsive-container.is-menu-open .wp-block-navigation__submenu-container.wp-block-navigation__submenu-container.wp-block-navigation__submenu-container.wp-block-navigation__submenu-container {
 		padding-right: 0;
@@ -432,14 +428,26 @@ body.page-id-14 #tix-attendees .avatar {
     border-radius: 50%;
 }
 
-body.page-id-14 #tix-attendees .tix-attendee-name {
-    margin-left: 110px;
+body.page-id-14 #tix-attendees .tix-field{
+margin-left: 110px;	
 }
 
-@media only screen and (max-width: 1024px) {
+
+body.page-id-14 #tix-attendees .tix-attendee-name {
+font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+@media only screen and (min-width: 599px) and (max-width: 1024px) {
     body.page-id-14 #tix-attendees .tix-columns-4 li {
         width: 49%;
     }
 }
 
+@media only screen and (max-width: 599px) {
+    body.page-id-14 #tix-attendees .tix-columns-4 li {
+        width: 100%;
+	margin-right: 0;
+    }
+}
 /* Ticket Page CSS ends*/
