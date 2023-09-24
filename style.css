@@ -436,8 +436,9 @@ body.page-id-14 #tix-attendees .tix-field{
 
 
 body.page-id-14 #tix-attendees .tix-attendee-name {
-font-weight: bold;
+	font-weight: bold;
     margin-bottom: 0.5rem;
+	margin-top: 15px;
 }
 
 @media only screen and (min-width: 599px) and (max-width: 1024px) {
