@@ -454,3 +454,9 @@ body.page-id-14 #tix-attendees .tix-attendee-name {
     }
 }
 /* Ticket Page CSS ends*/
+
+/* speaker page css */
+.wcb_speaker.type-wcb_speaker.status-publish.hentry {
+	border: solid 5px aliceblue;
+	padding: 40px;
+}
