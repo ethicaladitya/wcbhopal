@@ -461,3 +461,17 @@ body.page-id-14 #tix-attendees .tix-attendee-name {
 	border: solid 5px aliceblue;
 	padding: 40px;
 }
+
+/* border on welcome section */
+.welcome-section {
+	border-image: url('https://bhopal.wordcamp.org/2023/files/2023/09/website-design-WPBhopal2.png') 15 / 15px 10px 10px 10px / 0 10px 10px 10px round;
+}
+
+/* attendee page x icon */
+.tix-field.tix-attendee-twitter {
+	font-size: 0 !important;
+}
+
+.tix-field.tix-attendee-twitter::before {
+	content: url('https://bhopal.wordcamp.org/2023/files/2023/09/wcbpl23_tix-attendee_icon_twitter-x-1-e1695909438622.png');
+}
