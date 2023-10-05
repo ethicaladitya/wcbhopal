@@ -475,3 +475,7 @@ body.page-id-14 #tix-attendees .tix-attendee-name {
 .tix-field.tix-attendee-twitter::before {
 	content: url('https://bhopal.wordcamp.org/2023/files/2023/09/wcbpl23_tix-attendee_icon_twitter-x-1-e1695909438622.png');
 }
+
+body.page-slug-volunteers .wp-block-image img{
+	border-radius: 1rem;
+} 
