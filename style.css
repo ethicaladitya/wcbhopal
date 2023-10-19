@@ -479,3 +479,15 @@ body.page-id-14 #tix-attendees .tix-attendee-name {
 body.page-slug-volunteers .wp-block-image img{
 	border-radius: 1rem;
 } 
+
+.page-slug-blog .wp-block-post-title a {
+	font-size: 20px;
+	text-decoration: ;
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: ;
+}
+.page-slug-blog .wp-block-post-title {
+	margin-bottom: -20px;
+}
+
